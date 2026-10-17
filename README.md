@@ -9,7 +9,7 @@
 
 ## 🔥 Contributed to
 
-- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) (9.5k★, Rust) —— 给 Coding CLI 提供长期记忆的开源项目
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) ![stars](https://img.shields.io/github/stars/akitaonrails/ai-memory?style=social) (Rust) —— 给 Coding CLI 提供长期记忆的开源项目
   - PR [#1337](https://github.com/akitaonrails/ai-memory/pull/1337)：first-party DeepSeek Harness (DSH) lifecycle capture
 
 ## 🧰 我的项目
