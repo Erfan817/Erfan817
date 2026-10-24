@@ -2,7 +2,7 @@
 
 > CS 在读 · AI Agent 方向 · Coding Agent 重度用户
 
-- 🎓 长春理工大学 · 计算机科学与技术 · 2029 届
+- 🎓 计算机科学与技术 · 2029 届
 - 🔭 当前在做：个人 Agent / Coding Agent 应用开发
 - 🌱 技术栈：Java · Python · Rust（入门中）
 - 📝 博客：[Erfanblog.top](https://erfanblog.top)
