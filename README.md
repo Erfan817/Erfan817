@@ -14,6 +14,7 @@
 
 ## 🧰 我的项目
 
+- [ReadyGym](https://github.com/Erfan817/ReadyGym) —— 你的 AI 健身教练，随时就位：面向新手的 Android 健身 App（Kotlin + Jetpack Compose），教练对话建档案、生成训练计划、跟练计时与训练统计，配套 Spring Boot 服务端
 - [bilibili-video-summary](https://github.com/Erfan817/bilibili-video-summary) —— B 站视频结构化总结 Agent Skill：纯本地 Whisper 转写、零成本零上传，按需抽帧读图，看得懂 PPT 和板书
 - [personal-bot-demo](https://github.com/Erfan817/personal-bot-demo) —— 分层架构的自托管个人 Agent
 - [lilith-diviner](https://github.com/Erfan817/lilith-diviner) —— 统一中文占卜 Agent Skill（塔罗 / 八字 / 奇门遁甲 / 星座，含可核验计算）
