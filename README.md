@@ -9,6 +9,8 @@
 
 ## 🔥 Contributed to
 
+- [Hy4ri/hermes-mobile](https://github.com/Hy4ri/hermes-mobile) ![stars](https://img.shields.io/github/stars/Hy4ri/hermes-mobile?style=social) (Kotlin) —— Hermes Agent 的原生 Android 客户端
+  - PR [#1751](https://github.com/Hy4ri/hermes-mobile/pull/1751)：fix(#1750) 避免定时任务步骤间隔描述误导
 - [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) ![stars](https://img.shields.io/github/stars/akitaonrails/ai-memory?style=social) (Rust) —— 给 Coding CLI 提供长期记忆的开源项目
   - PR [#1337](https://github.com/akitaonrails/ai-memory/pull/1337)：first-party DeepSeek Harness (DSH) lifecycle capture
 
