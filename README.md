@@ -13,6 +13,8 @@
   - PR [#1751](https://github.com/Hy4ri/hermes-mobile/pull/1751)：fix(#1750) 避免定时任务步骤间隔描述误导
 - [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) ![stars](https://img.shields.io/github/stars/akitaonrails/ai-memory?style=social) (Rust) —— 给 Coding CLI 提供长期记忆的开源项目
   - PR [#1337](https://github.com/akitaonrails/ai-memory/pull/1337)：first-party DeepSeek Harness (DSH) lifecycle capture
+  - PR [#1365](https://github.com/akitaonrails/ai-memory/pull/1365)：honor capture exclusions for DeepSeek Harness tool calls
+  - 🏅 以上贡献被 [XERJ Corpus Hub](https://hub.xerj.org/)（面向 AI Agent 的公开参考语料库）选中，按 MIT + 署名收录
 
 ## 🧰 我的项目
 
