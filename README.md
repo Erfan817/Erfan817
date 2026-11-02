@@ -25,4 +25,7 @@
 
 ## 📊 Stats
 
-![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erfan817&show_icons=true&hide_border=true)
+| | |
+|---|---|
+| ![Erfan 的 GitHub 详情](profile-summary-card-output/github_dark/0-profile-details.svg) | ![Erfan 的 GitHub 统计](profile-summary-card-output/github_dark/3-stats.svg) |
+| ![Erfan 的仓库语言](profile-summary-card-output/github_dark/1-repos-per-language.svg) | ![Erfan 的提交语言](profile-summary-card-output/github_dark/2-most-commit-language.svg) |
